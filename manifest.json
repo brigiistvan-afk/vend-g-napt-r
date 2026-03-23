@@ -2,7 +2,7 @@
   "name": "Időpontfoglalás",
   "short_name": "Időpont",
   "description": "Online időpontfoglaló rendszer",
-  "start_url": "/",
+  "start_url": "/vend-g-napt-r/",
   "display": "standalone",
   "background_color": "#F7F3EE",
   "theme_color": "#1C1714",
